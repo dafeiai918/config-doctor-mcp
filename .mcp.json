@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "config-doctor-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dafeiai918/config-doctor-mcp",
+        "config-doctor-mcp"
+      ]
+    }
+  }
+}
