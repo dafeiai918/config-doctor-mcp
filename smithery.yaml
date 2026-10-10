@@ -1,0 +1,7 @@
+name: config-doctor-mcp
+description: AI 客户端配置诊断 MCP：扫描配置 / 查 /v1 错误 / 检查明文密钥
+categories:
+  - tools
+  - security
+license: MIT
+repository: https://github.com/dafeiai918/config-doctor-mcp
